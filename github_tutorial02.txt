@@ -1,0 +1,16 @@
+ 1053  ls
+ 1054  ls
+ 1055  pwd
+ 1056  ls
+ 1057  git add --all
+ 1058  commit -m "added files"
+ 1059  git commit -m "added files"
+ 1060  git status
+ 1061  git push
+ 1062  history > github_tutorial.txt
+ 1063  history >github_tutorial.txt
+ 1064  ls
+ 1065  git add --all
+ 1066  git commit -m "remove files 12 december"
+ 1067  git push
+ 1068  history >github_tuturial_next.txt
